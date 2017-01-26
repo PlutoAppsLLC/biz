@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tech Services",
-    "currentPage": "ipnetworking.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -212,7 +212,7 @@
           "title2": "Mobile Apps",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Want an app for customers? &nbsp;Need a custom app to finish certain tasks? &nbsp;Cool! &nbsp;We're up for the challenge!",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Apps</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mobile.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Apps</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -228,7 +228,7 @@
           "title3": "Creatiave Broadcasting",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Need to live broadcast an event? &nbsp;Want to run a mobile campaign to boost customers? &nbsp;Learn what we can do!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Broadcasting</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"broadcasting.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Broadcasting</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -244,7 +244,7 @@
           "title4": "IP Networking and Computer Deployment",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Internet running slow? &nbsp;Need to manange who has access to what? &nbsp;Want to deploy a computer network but keep it mananged?",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">IP Networking</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"broadcasting.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">IP Networking</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -608,6 +608,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-7",
           "_params": {
             "labelsColor": "#232323",
@@ -653,12 +658,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -779,6 +779,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "right",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
           "_anchor": "header1-d",
           "_params": {
             "parallax": true,
@@ -801,14 +808,7 @@
           },
           "title": "Woah There!",
           "text": "Pluto Apps is comitted to providing quality apps for our customers, we currently are wokring on a project that will take some time. &nbsp;Check back soon or send us an email!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> ",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "right",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> "
         }
       ]
     },
@@ -911,6 +911,11 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header4-f",
           "_params": {
             "parallax": true,
@@ -935,12 +940,7 @@
           },
           "title": "Live Broadcasting Beta<br>Is No Longer Accepting<br>Applicants",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1075,6 +1075,16 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "form1-l",
           "_params": {
             "labelsColor": "#232323",
@@ -1120,17 +1130,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     }
